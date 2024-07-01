@@ -12,7 +12,7 @@
 - **ORM** : Mybatis
 
 ## 📌 전체작업
-#### 로그인 - <a href="[https://](http://192.168.0.108/product/update2)" >상세보기 - WIKI 이동</a>
+#### 로그인 - <a href="httpshttp://192.168.0.108/product/update2" >상세보기 - WIKI 이동</a>
 - DB값 검증
 - ID찾기, PW찾기
 - 로그인 시 쿠키(Cookie) 및 세션(Session) 생성
